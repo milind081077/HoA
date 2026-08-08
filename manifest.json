@@ -1,0 +1,32 @@
+{
+  "name": "House of Ambition",
+  "short_name": "HoA",
+  "description": "7-Year Master Plan \u2014 Milind Pathak",
+  "start_url": ".",
+  "id": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0D0F13",
+  "theme_color": "#0D0F13",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "lifestyle"
+  ],
+  "lang": "en-IN",
+  "prefer_related_applications": false
+}
