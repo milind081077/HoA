@@ -1,7 +1,7 @@
 {
   "name": "House of Ambition",
   "short_name": "HoA",
-  "description": "7-Year Master Plan \u2014 Milind Pathak",
+  "description": "7-Year Master Plan",
   "start_url": ".",
   "id": ".",
   "scope": ".",
@@ -24,8 +24,7 @@
     }
   ],
   "categories": [
-    "productivity",
-    "lifestyle"
+    "productivity"
   ],
   "lang": "en-IN",
   "prefer_related_applications": false
